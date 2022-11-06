@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cmath>
 using namespace std;
-int main(){
-    cout << (int)'9';
-    cour << "Hello World!";
+int main()
+{
+    cout << "Hello World!";
 }
